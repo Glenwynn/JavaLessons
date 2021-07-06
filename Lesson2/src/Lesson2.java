@@ -1,6 +1,7 @@
 public class Lesson2 {
     static int a, b;
 
+
     public static void main(String[] args) {
         System.out.println("Задача 1");
         for (int i = 0; i < 3; i++) {
